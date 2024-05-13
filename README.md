@@ -29,7 +29,7 @@ The raw data are stored in the .csv-format in the directory 'data' ('netflix_tit
 There is only one Jupyter Notebook file called netflix_exploration.ipynb in the root directory. All analysis can be found in this file.
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@jonas_fe/3-insights-about-netflixs-production-behaviour-5747430edf4d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Licensed under the Public Domain (CC0) and provided by [Kaggle](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data). 
